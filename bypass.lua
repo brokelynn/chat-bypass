@@ -165,9 +165,9 @@ local bypasses = {
     ["fucked"] = bypass("fucked"),
     ["assed"] = bypass("assed"),
     ["pedophile"] = bypass("pedophile"),
-    [""] = bypass(""),
-    [""] = bypass(""),
-    [""] = bypass(""),
+    ["gulp"] = bypass("gulp"),
+    ["kiss"] = bypass("kiss"),
+    ["cracker"] = bypass("cracker"),
 }
 
 for i,v in next, bypasses do
