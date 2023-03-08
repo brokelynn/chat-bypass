@@ -128,7 +128,7 @@ local bypasses = {
     ["LMFAO"] = bypass("lmfao"),
     ["lmao"] = bypass("lmao"),
     ["LMAO"] = bypass("lmao"),
-    ["shit"] = bypass("shit"),
+    ["shit"] = bypass("s hit"),
     ["cotton"] = bypass("cotton"),
     ["cock"] = bypass("cock"),
     ["ass"] = bypass("ass"),
@@ -136,7 +136,7 @@ local bypasses = {
     ["tits"] = bypass("tits"),
     ["wtf"] = bypass("wtf"),
     ["WTF"] = bypass("wtf"),
-    ["nazi"] = bypass("nazi),
+    ["nazi"] = bypass("nazi"),
     ["hitler"] = bypass("hitler"),
     ["swatikas"] = bypass("swattikas"),
     ["dick"] = bypass("dick"),
@@ -167,7 +167,7 @@ local bypasses = {
     ["pedophile"] = bypass("pedophile"),
     ["gulp"] = bypass("gulp"),
     ["kiss"] = bypass("kiss"),
-    ["cracker"] = bypass("cracker"),
+    ["hate"] = bypass("hate"),
 }
 
 for i,v in next, bypasses do
